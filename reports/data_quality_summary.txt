@@ -1,0 +1,45 @@
+DAY 1 - DATA QUALITY SUMMARY
+
+Dataset Count: 10
+
+1. fund_master
+Rows: 40
+Missing Values: 0
+
+2. nav_history
+Rows: 46000
+Missing Values: 0
+
+3. aum_by_fund_house
+Rows: 90
+Missing Values: 0
+
+4. monthly_sip_inflows
+Rows: 48
+Missing Values:
+yoy_growth_pct = 12
+
+Reason:
+First year has no previous year comparison.
+
+5. category_inflows
+Missing Values: 0
+
+6. industry_folio_count
+Missing Values: 0
+
+7. scheme_performance
+Missing Values: 0
+
+8. investor_transactions
+Missing Values: 0
+
+9. portfolio_holdings
+Missing Values: 0
+
+10. benchmark_indices
+Missing Values: 0
+
+Conclusion:
+Dataset quality is good.
+Only expected missing values exist in SIP YoY growth.
